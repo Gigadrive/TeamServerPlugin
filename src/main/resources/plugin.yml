@@ -1,0 +1,16 @@
+name: TeamServerPlugin
+author: Zeryther
+version: 1.0
+website: https://thechest.eu
+main: eu.thechest.teamserver.TeamServerPlugin
+depend: [ChestAPI,HolographicDisplays]
+
+commands:
+  bindreward:
+    description: bindreward
+  prepareworld:
+    description: prepareworld
+  saveworld:
+    description: saveworld
+  loadworld:
+    description: loadworld
